@@ -7,6 +7,7 @@ Formação completa em **Ciência da Computação** (bacharel) e **Informática*
 <br><br>
 
 Como analista de dados desenvolvi experiência com as ferramentas: **Python**, **SQL**, **Excel**, **Power BI**. Desenvolvi e liderei alguns projetos como: *Sistema de Recomendação* e *Indicação Geográfica para Vendas*. Também desenvolvi analises automatizadas e dashboards para auxiliar gestores e diretores em tomadas de decisão. Tal experiência me fez desenvolver comunicação acertiva, raciocínio analítico e estratégico, proatividade, autodidatismo e autocritica.<br>
+<br>
 Atualmente busco me torcar um cientista de dados e estou centralizando meus estudos em **Machine Learning**/**Deep Learning**, dando um foco maior na matematica de como tais tecnologias funcionam.<br>
 
 <br>
