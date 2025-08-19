@@ -1,6 +1,6 @@
 ## wsup 🦹🏽‍♀️
 
-Possuo 2 anos de experiência como **Analista de Dados**
+####### Possuo 2 anos de experiência como **Analista de Dados**
 **Formado em **Ciência da Computação** pelo SENAC
 *SP, São Paulo*
 
