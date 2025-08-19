@@ -1,6 +1,10 @@
-### wsup 🦹🏽‍♀️
+## wsup 🦹🏽‍♀️
 
-**teste** 
+Possuo 2 anos de experiência como **Analista de Dados**
+**Formado em **Ciência da Computação** pelo SENAC
+*SP, São Paulo*
+
+
 
 <!--
 **richardsantino/richardsantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
